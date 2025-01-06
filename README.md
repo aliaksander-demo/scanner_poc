@@ -1,5 +1,10 @@
 # ScannerPOC
 
+Project for scanning user receipts and other documents, organise them in folders and categories, synchronize local db with supabase.
+
+## Stack
+BLoC, Supabase, AppRouter, EasyLocalization, Dio, etc.
+
 ## To generate localization:
 ```
 cd core
